@@ -1,4 +1,4 @@
-# CLI-ExpenseTracker
+# NG-ExpenseTracker
 
 # 💰 Terminal-Based Expense Tracker (Naija Style)
 
